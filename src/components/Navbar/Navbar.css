@@ -89,7 +89,7 @@
 
 .logo-container {
     display: flex;
-    width: 420px;
+    width: 500px;
   }
 
   .logo {
@@ -97,7 +97,7 @@
     margin-top: 0px;
   }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 400px) {
     .NavbarItems {
         position: relative;
     }
