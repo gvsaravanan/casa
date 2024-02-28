@@ -61,7 +61,7 @@ function Home() {
             </div>
             <div>
               <button className={style["about-us-button"]}>
-                <Link to="/about" id="about">
+                <Link to="/casa/about" id="about">
                   About &rarr;
                 </Link>
               </button>
@@ -91,7 +91,7 @@ function Home() {
         </div>
         <div>
           <button className={style["about-us-button"]}>
-            <Link to="/properties" id="about">
+            <Link to="/casa/properties" id="about">
               More &rarr;
             </Link>
           </button>

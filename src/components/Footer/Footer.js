@@ -14,17 +14,17 @@ function Footer() {
                             <div className={style["navigate"]}>
                                 <ul className={style["nav"]}>
                                     <li className={style["link"]}>
-                                        <Link to="/" className="nav-link" id="home">
+                                        <Link to="/casa" className="nav-link" id="home">
                                             HOME
                                         </Link>
                                     </li>
                                     <li className={style["link"]}>
-                                        <Link to="/services" className="nav-link" id="services">
-                                            SERVICES
+                                        <Link to="/casa/properties" className="nav-link" id="services">
+                                            PROPERTIES
                                         </Link>
                                     </li>
                                     <li className={style["link"]}>
-                                        <Link to="/about" className="nav-link" id="about">
+                                        <Link to="/casa/about" className="nav-link" id="about">
                                             ABOUT
                                         </Link>
                                     </li>
