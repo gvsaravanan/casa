@@ -1,7 +1,7 @@
 import React from "react";
 import style from "./About.module.css";
 import img1 from "./background.jpeg";
-import founder from "./founder.png";
+import founder from "./yash_headshot.png";
 
 function About() {
   return (
