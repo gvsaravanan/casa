@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/casa/static/css/main.1108221c.css",
+    "main.js": "/casa/static/js/main.ac7babd3.js",
+    "static/js/453.65fa22f7.chunk.js": "/casa/static/js/453.65fa22f7.chunk.js",
+    "static/media/sea.jpg": "/casa/static/media/sea.7e7805ef2f038562940d.jpg",
+    "static/media/background.jpg": "/casa/static/media/background.210034dca519df23e7f7.jpg",
+    "static/media/sale.jpeg": "/casa/static/media/sale.8384dfe3fcd8919afac4.jpeg",
+    "static/media/background.jpeg": "/casa/static/media/background.f125fda55f99f3ded3a0.jpeg",
+    "static/media/woods.jpeg": "/casa/static/media/woods.8367f997edf5b1078061.jpeg",
+    "static/media/yash_headshot.png": "/casa/static/media/yash_headshot.97d70c72826112f70315.png",
+    "static/media/bridge.jpg": "/casa/static/media/bridge.345a3424833cd5652175.jpg",
+    "static/media/road.jpg": "/casa/static/media/road.5ac0d15f8ca86ba9cb42.jpg",
+    "static/media/casa-high-resolution-logo-transparent.png": "/casa/static/media/casa-high-resolution-logo-transparent.18b6b09644f03baa5f41.png",
+    "index.html": "/casa/index.html",
+    "main.1108221c.css.map": "/casa/static/css/main.1108221c.css.map",
+    "main.ac7babd3.js.map": "/casa/static/js/main.ac7babd3.js.map",
+    "453.65fa22f7.chunk.js.map": "/casa/static/js/453.65fa22f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1108221c.css",
+    "static/js/main.ac7babd3.js"
+  ]
+}
